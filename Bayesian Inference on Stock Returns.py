@@ -4,7 +4,7 @@ Created on Tue Jun  6 10:37:06 2017
 
 @author: Samuel
 """
-
+# change just to push to github!!!!!
 """Introduction to Bayesian Inference"""
 import numpy as np 
 from scipy import stats
